@@ -19,5 +19,5 @@ Discord Bot Template with TypeScript.
 
 ## Discord Server
 <p align="center">
-  <a href="https://discord.gg/UgZjR5u"><img src="" alt="Discord server"></a>
+  <a href="https://discord.gg/UgZjR5u"><img src="https://discord.com/api/guilds/719230086435307683/embed.png?style=banner2" alt="Discord server"></a>
 </p>
