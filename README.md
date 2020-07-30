@@ -11,7 +11,7 @@ Discord Bot Template with TypeScript.
 # Contributors
 
 * **Deivid** [GitHub](https://github.com/Drylotrans)
-* **Teuz** [Discord] Teuz#8959
+* **Teuz** [GitHub](https://github.com/MrTeuz)
 * **Giorgi** [GitHub](https://github.com/GiorgiSosaR)
 * **Danny** [GitHub](https://github.com/Danny2105)
 
